@@ -1,0 +1,23 @@
+# Local video projects and generated media
+node_modules/
+dist/
+build/
+renders/
+stills/
+fin_frames/
+qc/frames/
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Secrets and machine state
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
