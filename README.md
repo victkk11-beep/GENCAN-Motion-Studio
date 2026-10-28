@@ -1,4 +1,4 @@
-# Video Making System Cache
+# GENCAN Motion Studio
 
 一套可重复执行、可审阅、可改进的知识讲解视频制作流程。本仓库保存流程与模板，不包含示范视频，也不复制工具代码或素材。
 
